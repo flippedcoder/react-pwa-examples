@@ -1,2 +1,2 @@
-# Web_Development_Portfolio
-# Web_Development_Portfolio
+npm install
+npm start
