@@ -1,0 +1,27 @@
+.add-order .card-body {
+    display: none;
+}
+
+.order-list {
+    font-size: 1.1em;
+}
+
+.order-list .order-item {
+    border-bottom: 1px dotted gray;
+}
+
+.order-list .order-item:last-child {
+    border-bottom: none;
+}
+
+.order-list .order-customer-name {
+    font-weight: 400;
+    color: #33ab;
+    font-size: 1.3em;
+    line-height: 100%;
+}
+
+.order-list .label-item {
+    font-weight: 400;
+    color: #a4b2c6;
+}
